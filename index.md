@@ -23,13 +23,13 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: share a <br><strong>Cutlet</strong>
+    headline: Share a <br><strong>Cutlet</strong>
     content:
-      Cutlet is a token on BSC.
-    cta:
-      enabled: true
-      url: https://github.com/forestryio/ubuild-jekyll
-      button_text: "See on GitHub "
+      Cutlet is a BEP-20 smart contract designed with a focus on providing need-based resources to those affected due to COVID-19. The protocol was launched on May 5th, 2021 on Binance Smart Chain (referred to as BSC). This token contract employs a static reward system - 9% of every transaction is split into three parts - one part is distributed to the holders, the other 3% is added to the need-based global funding pool, and the rest is used to fuel the liquidity pool on Pancake Swap decentralized exchange. This token was launched with the idea of creating a community token that helps the people in need amidst this pandemic.
+    # cta:
+    #   enabled: true
+    #   url: https://github.com/forestryio/ubuild-jekyll
+    #   button_text: "See on GitHub "
     image:
       image: "/uploads/2018/06/21/product-shot-1.png"
       alt_text: Product Shot
@@ -40,10 +40,9 @@ page_sections:
     slug: swap
     headline:
       <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-      class="light">the Blocks to create sites quickly</span>
+      class="light">safeway to Moon!</span>
     content:
-      Quickly assemble and create custom sites with 16 design blocks for seven
-      different sections.
+      The static reward system is a concept that was inspired by Safemoon's popular reward system with its sustainable approach towards liquidity distribution. The reward amount is based on the transaction and volume of the tokens in the marketplace. This method also encourages token holders to hold their tokens to earn rewards from transactions based on the contract and the number of tokens held. 
     media:
       image: "/uploads/2018/06/21/blocks-split.png"
       alt_text: uBuild Blocks Mock-Up
@@ -52,11 +51,9 @@ page_sections:
     media_alignment: Right
     slug: customize
     headline:
-      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-      edits throughout your new site</span>
+      <strong>a token for a cause</strong><span class="light">&nbsp;to help people in need</span>
     content:
-      Each block comes with custom Front Matter that can be edited in
-      Forestry CMS.
+      Recognizing the impact of cryptocurrency, Cutlet focuses on creating an opportunity to donate to the people and small businesses affected due to this pandemic while taking advantage of the market and generating income for the network participants.
     media:
       image: "/uploads/2018/06/21/edit.gif"
       alt_text: Customize Blocks
