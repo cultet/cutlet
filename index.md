@@ -39,8 +39,8 @@ page_sections:
     media_alignment: Left
     slug: swap
     headline:
-      <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-      class="light">safeway to Moon!</span>
+      <strong>A sustainable way<span class="light">&nbsp;</span></strong><span
+      class="light">Moon!</span>
     content:
       The static reward system is a concept that was inspired by Safemoon's popular reward system with its sustainable approach towards liquidity distribution. The reward amount is based on the transaction and volume of the tokens in the marketplace. This method also encourages token holders to hold their tokens to earn rewards from transactions based on the contract and the number of tokens held. 
     media:
