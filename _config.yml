@@ -4,7 +4,7 @@ email: tbd
 description: >-
   Cutlet is a BSC based token
 baseurl: '/'
-url: 'https://cutlet.com'
+url: ''
 
 # Build settings
 defaults:
