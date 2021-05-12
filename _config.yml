@@ -1,21 +1,29 @@
-title: uBuild Design Blocks
-author: Forestry.io
-email: support@forestry.io
+title: Cutlet
+author: rosequ
+email: tbd
 description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
-baseurl: "/cutlet.github.io" # the subpath of your site, e.g. /blog
-url: "cutlet.github.io" # your site's origin, e.g. https://forestry.io
+  Cutlet is a BSC based token
+baseurl: '/'
+url: 'https://cutlet.com'
 
 # Build settings
 defaults:
   - scope:
-      path: "" # an empty string here means all files in the project
+      path: '' # an empty string here means all files in the project
     values:
-      layout: "default" # this ensures all content renders with layouts/default.html
-
-plugins:
+      layout: 'default' # this ensures all content renders with layouts/default.html
+markdown: kramdown
+gems:
   - jekyll-feed
   - jekyll-menus
-
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
