@@ -3,7 +3,7 @@ author: rosequ
 email: tbd
 description: >-
   Cutlet is a BSC based token
-baseurl: '/cutlet.github.io'
+baseurl: '/cutlet'
 url: ''
 
 # Build settings
